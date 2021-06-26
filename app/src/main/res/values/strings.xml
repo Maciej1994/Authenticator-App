@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AuthenticatorApp</string>
+    <string name="password_field">Password</string>
+    <string name="username_field">Username</string>
+    <string name="email_field">Email</string>
+    <string name="button_register">Register</string>
+    <string name="button_log">Login</string>
+    <string name="welcome_dash">Welcome to Dashboard</string>
+    <string name="button_logout">Logout</string>
+</resources>
